@@ -1,0 +1,15 @@
+C:\Repositories\QuizApp\Quiz.Services\bin\Debug\net6.0\Quiz.Services.deps.json
+C:\Repositories\QuizApp\Quiz.Services\bin\Debug\net6.0\Quiz.Services.dll
+C:\Repositories\QuizApp\Quiz.Services\bin\Debug\net6.0\Quiz.Services.pdb
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.csproj.AssemblyReference.cache
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.AssemblyInfoInputs.cache
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.AssemblyInfo.cs
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.csproj.CoreCompileInputs.cache
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.dll
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\refint\Quiz.Services.dll
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.pdb
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\ref\Quiz.Services.dll
+C:\Repositories\QuizApp\Quiz.Services\bin\Debug\net6.0\Quiz.Data.dll
+C:\Repositories\QuizApp\Quiz.Services\bin\Debug\net6.0\Quiz.Data.pdb
+C:\Repositories\QuizApp\Quiz.Services\obj\Debug\net6.0\Quiz.Services.csproj.CopyComplete

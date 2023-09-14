@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Quiz.API</name>
+    </assembly>
+    <members>
+        <member name="M:Quiz.API.Controllers.AnswersController.AddAnswer(Quiz.Services.Commands.AddAnswerToQuestionCommand)">
+            <summary>
+            Add an answer to a question
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.AnswersController.VoteAnswer(Quiz.Services.Commands.VoteAnswerCommand)">
+            <summary>
+            Generates a vote for an answer
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.BulkController.Bulk(Quiz.Services.Commands.BulkCommand)">
+            <summary>
+            Bulk insert
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.QuestionsController.#ctor(MediatR.IMediator)">
+            <summary>
+            
+            </summary>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:Quiz.API.Controllers.QuestionsController.AddQuestion(Quiz.Services.Commands.AddQuestionCommand)">
+            <summary>
+            Post a Question
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.QuestionsController.GetQuestion(System.Guid)">
+            <summary>
+             Retrieves a question with QuestionId
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.QuestionsController.GetQuestions(Quiz.Services.Queries.GetQuestionsQuery)">
+            <summary>
+            Retrieves a list of questions
+            </summary>
+            <param name="query"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.QuestionsController.VoteQuestion(Quiz.Services.Commands.VoteQuestionCommand)">
+            <summary>
+            Register a vote for a Question
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.QuestionsController.GetQuestionsByTag(Quiz.Services.Queries.GetQuestionsByTag)">
+            <summary>
+            Get a list of questions filtered by tag list
+            </summary>
+            <param name="query"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Quiz.API.Controllers.TokenController.GetToken">
+            <summary>
+            Generates token
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
